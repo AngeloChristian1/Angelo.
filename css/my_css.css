@@ -60,9 +60,7 @@ filter:grayscale(0);
     left:0px;
     height:3px;
     width:100%;
-    background:indigo;
-
-    
+    background:indigo;   
 }
 .year{
     opacity: .6;
@@ -73,5 +71,7 @@ filter:grayscale(0);
 .education .detail-box {
     
    margin-left:50px;
-
+}
+section{
+transition:.4s;
 }
